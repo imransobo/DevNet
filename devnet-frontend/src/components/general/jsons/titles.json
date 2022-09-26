@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Junior Software Engineer",
+        "title_short": "JSE"
+    },
+    {
+        "title": "Medior Software Engineer",
+        "title_short": "MSE"
+    },
+    {
+        "title": "Senior Software Engineer",
+        "title_short": "SSE"
+    },
+    {
+        "title": "Junior Web Developer",
+        "title_short": "JWD"
+    },
+    {
+        "title": "Medior Web Developer",
+        "title_short": "MWD"
+    },
+    {
+        "title": "Senior Web Developer",
+        "title_short": "SWD"
+    },
+    {
+        "title": "System Administrator",
+        "title_short": "SA"
+    },
+    {
+        "title": "Network Administration",
+        "title_short": "NA"
+    },
+    {
+        "title": "Penetration Tester",
+        "title_short": "PT"
+    },
+    {
+        "title": "Junior Frontend Engineer",
+        "title_short": "JFE"
+    },
+    {
+        "title": "Medior Frontend Engineer",
+        "title_short": "MFE"
+    },
+    {
+        "title": "Senior Frontend Engineer",
+        "title_short": "SFE"
+    },
+    {
+        "title": "Junior Backend Engineer",
+        "title_short": "JBE"
+    },
+    {
+        "title": "Medior Backend Engineer",
+        "title_short": "MBE"
+    },
+    {
+        "title": "Senior Backend Engineer",
+        "title_short": "SBE"
+    },
+    {
+        "title": "Database Administrator",
+        "title_short": "DA"
+    },
+    {
+        "title": "Database Developer",
+        "title_short": "DD"
+    },
+    {
+        "title": "Human Resources",
+        "title_short": "HR"
+    },
+    {
+        "title": "Talent Acquisition Specialist",
+        "title_short": "TAS"
+    }
+]
